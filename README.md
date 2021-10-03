@@ -43,4 +43,4 @@ The analysis of the election are:
  
  
 ## Challenge Summary
-You could alter this scrip to account for elections that may have more counties and/or candidates and the analysis outcome would be similar to the one you see here.  If we want to expand our analysis to account for the demographics of the voters, we would need to expand our election_results.cvs to include the additional data points. Incorporating more data points would provide useful in the trends on voting based on county and demographics.  
+You could alter this scrip to account for elections that may have more counties and/or candidates and the analysis outcome would be similar to the one you see here.  If we want to expand our analysis to account for the demographics of the voters, we would need to expand our election_results.cvs to include the additional data points. Incorporating more data points would provide useful in tracking trends on elections and potentially help candidates identify which areas and groups of people they need to focus on to win.
