@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview 
-The purpose of this assingment was to perform an audit for the Colorado Board based on the recent election.
+The purpose of this assignment was to perform an audit for the Colorado Board based on the recent election.
 
 1. Calculate the total number of votes casted.
 2. Get a complete list of candidates who received votes.
@@ -30,9 +30,9 @@ The analysis of the election are:
       * Candidate Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
       
   * The counties results:
-      * Jefferson county recieved 10.5% of the total vote with 38,855 votes. 
-      * Denver county recieved 82.8% of the total vote with 306,055 votes. 
-      * Arapahoe county recieved 6.7% of the total vote with 24,801 votes. 
+      * Jefferson county received 10.5% of the total vote with 38,855 votes. 
+      * Denver county received 82.8% of the total vote with 306,055 votes. 
+      * Arapahoe county received 6.7% of the total vote with 24,801 votes. 
   
 
 * Denver was the largest county with a total of 306,055 votes. 
@@ -43,4 +43,4 @@ The analysis of the election are:
  
  
 ## Challenge Summary
-You could alter this scrip to account for elections that may have more counties and/or candidates and the analysis outcome would be similar to the one you see here.  If we want to expand our analysis to account for the demographics of the voters, we would need to expand our election_results.cvs to include the additional data points. Incorporating more data points would provide useful in tracking trends on elections and potentially help candidates identify which areas and groups of people they need to focus on to win.
+You could alter this scrip to account for elections that may have more counties and/or candidates and the analysis outcome would be like the one you see here.  If we wanted to expand our analysis to account for the demographics of the voters, we would need to expand our election_results.cvs to include the additional data points. Incorporating more data points would provide useful in tracking trends on elections and potentially help candidates identify which areas and groups of people they need to focus on to win.
